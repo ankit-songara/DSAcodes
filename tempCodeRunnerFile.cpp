@@ -1,0 +1,2 @@
+
+    BTPTR T = NULL;
